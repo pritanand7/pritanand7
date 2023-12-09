@@ -6,8 +6,7 @@
 
 - 🏢 I am currently working as a **Student** 🧑🏻‍🎓
 - 🏢 Former **YouTuber**  [YouTube](https://www.youtube.com/@BurstTech)
-- 🎓 Studying BCA Specialization Course with Data Science & Data Analytics from [JECRC University](https://jecrcuniversity.edu.in/)
-- 🏡'Lives in **India**
+- 🏡'Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 
