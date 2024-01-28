@@ -16,15 +16,11 @@
 
 <br>
 
-[![@pritanand7](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pritanand7")](https://www.instagram.com/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/linkedin.png "@pritanand7")](https://linkedin.com/in/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pritanand7")](https://twitter.com/pritanand7) [![@pritanand7]([https://icons8.com/icon/19318/youtube] "@BurstTech")]([https://www.youtube.com/@BurstTech]) 
+[![@pritanand7](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pritanand7")](https://www.instagram.com/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/linkedin.png "@pritanand7")](https://linkedin.com/in/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pritanand7")](https://twitter.com/pritanand7) [![@Burst Tech](https://icons8.com/icon/19318/youtube "@BurstTech")](https://www.youtube.com/@BurstTech) 
 
 <br>
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-<br>
 
 ### 🔝 Top Contributed Repo
 
@@ -43,14 +39,17 @@
 
 <br>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+<br>
+
 ## GitHub Stats 📈 :
 
-<br>
-[![pritanand7 GitHub stats](https://github-readme-stats.vercel.app/api?username=pritanand7&theme=default)](https://github.com/pritanand7/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritanand7&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)](https://github.com/pritanand7/github-readme-stats) 
-
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritanand7&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&theme=default&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)
 
 ## Activity Graph 📊 :
 
