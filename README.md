@@ -16,7 +16,7 @@
 
 <br>
 
-[![@pritanand7](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pritanand7")](https://www.instagram.com/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/linkedin.png "@pritanand7")](https://linkedin.com/in/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pritanand7")](https://twitter.com/pritanand7) 
+[![@pritanand7](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pritanand7")](https://www.instagram.com/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/linkedin.png "@pritanand7")](https://linkedin.com/in/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pritanand7")](https://twitter.com/pritanand7) [![@pritanand7]([https://icons8.com/icon/19318/youtube] "@BurstTech")]([https://www.youtube.com/@BurstTech]) 
 
 <br>
 
