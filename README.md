@@ -16,10 +16,9 @@
 
 <br>
 
-[![@pritanand7](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pritanand7")](https://www.instagram.com/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/linkedin.png "@pritanand7")](https://linkedin.com/in/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pritanand7")](https://twitter.com/pritanand7) [![@Burst Tech](https://icons8.com/icon/19318/youtube "@BurstTech")](https://www.youtube.com/@BurstTech) 
+[![@pritanand7](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pritanand7")](https://www.instagram.com/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/linkedin.png "@pritanand7")](https://linkedin.com/in/pritanand7) [![@pritanand7](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pritanand7")](https://twitter.com/pritanand7) [![@Burst Tech](https://github.com/pritanand7/pritanand7/assets/93637274/ce1066c3-aba3-4774-84bc-0a4b76775e50 "@BurstTech")](https://www.youtube.com/@BurstTech) 
 
 <br>
-
 
 
 ### 🔝 Top Contributed Repo
