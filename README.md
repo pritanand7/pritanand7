@@ -20,18 +20,18 @@
 
 <br>
 
-## GitHub Stats 📈 :
-
-<br>
-[![pritanand7 GitHub stats](https://github-readme-stats.vercel.app/api?username=pritanand7&theme=default)](https://github.com/pritanand7/github-readme-stats) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritanand7&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)](https://github.com/pritanand7/github-readme-stats) 
-
-<br>
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+<br>
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=pritanand7&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+<br>
+
 ## GitHub Achievements 🏆 :
 
 <br>
@@ -40,6 +40,15 @@
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;Pull Shark</h3>
   <br>
 
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+[![pritanand7 GitHub stats](https://github-readme-stats.vercel.app/api?username=pritanand7&theme=default)](https://github.com/pritanand7/github-readme-stats) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritanand7&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)](https://github.com/pritanand7/github-readme-stats) 
 
 <br>
 
