@@ -5,7 +5,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Student** 🧑🏻‍🎓
-- 🏢 Former **YouTuber**  [YouTube](https://www.youtube.com/@BurstTech)
+- 🏢 Former **YouTuber**  
 - 🏡'Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
