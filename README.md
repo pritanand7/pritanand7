@@ -50,6 +50,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&theme=default&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)
 
+## 🎴Badges :
+
+[![@pritanand7's Holopin board](https://holopin.me/@pritanand7)](https://holopin.io/@pritanand7)
+
 ## Activity Graph 📊 :
 
 <br>
