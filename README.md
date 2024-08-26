@@ -49,6 +49,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritanand7&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&theme=default&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&" alt="prit-anand" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritanand7" alt="prit-anand" /></a> </p>
 
 ## 🎴Badges :
 
