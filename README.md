@@ -4,7 +4,8 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Student** 🧑🏻‍🎓
+- 🧑🏻‍🎓 I am currently a **Student** 
+- 🧑🏻‍💻 Tech Geek
 - 🏢 Former **YouTuber**  
 - 🏡'Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
@@ -53,7 +54,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritanand7" alt="prit-anand" /></a> </p>
 
-## 🎴Badges :
+## 🎴Hacktober Fest Holopin Badges :
 
 [![@pritanand7's Holopin board](https://holopin.me/@pritanand7)](https://holopin.io/@pritanand7)
 
