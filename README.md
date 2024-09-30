@@ -1,6 +1,6 @@
 # Prit's GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
-#### Self-Proclaimed Programmer
+### Self-Proclaimed Programmer
 
 ![GitHub followers](https://img.shields.io/github/followers/pritanand7?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/pritanand7?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pritanand7.repoName) <img src="https://komarev.com/ghpvc/?username=pritanand7" alt="pritanand7" />
 
