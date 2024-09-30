@@ -47,12 +47,9 @@
 
 ## GitHub Stats 📈 :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritanand7&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<span><picture><img src="https://github-readme-stats.vercel.app/api?username=pritanand7&show_icons=true&include_all_commits=true&theme=transparent&hide_border=false" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/username=pritanand7&langs_count=8&layout=compact&theme=transparent&hide_border=true" width=40.5% height=40.5%/></picture>
+</span>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&theme=default&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritanand7&theme=default)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&" alt="prit-anand" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritanand7" alt="prit-anand" /></a> </p>
 
 ## 🎴Hacktober Fest Holopin Badges :
 
