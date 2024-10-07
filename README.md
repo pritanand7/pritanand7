@@ -31,6 +31,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&theme=transparent&hide_border=false" width=50% height=280px/>
 
 
+<a href="https://github.com/pritanand7/GitHub-Language-Stats">
+<img src="https://github.com/pritanand7/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/pritanand7/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+
 <br>
 
 ## GitHub Achievements 🏆 :
