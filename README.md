@@ -33,7 +33,10 @@
 
 <a href="https://github.com/pritanand7/GitHub-Language-Stats">
 <img src="https://github.com/pritanand7/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<br>
+
 <img src="https://github.com/pritanand7/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<br>
 </a>
 
 
