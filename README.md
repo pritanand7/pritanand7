@@ -1,4 +1,4 @@
-# Prit's GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" alt="Coder GIF" width="600" height="400">
 
 ### Self-Proclaimed Programmer!
@@ -18,7 +18,7 @@
 
 <br>
 
-## Connect with me ☕ :
+## Connect ☕ :
 
 <br>
 
@@ -35,27 +35,6 @@
 </span>
 ![](https://github-contributor-stats.vercel.app/api?username=pritanand7&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritanand7&theme=transparent&hide_border=false" width=50% height=280px/>
-
-
-<a href="https://github.com/pritanand7/GitHub-Language-Stats">
-<img src="https://github.com/pritanand7/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<br>
-
-<img src="https://github.com/pritanand7/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<br>
-</a>
-
-
-<br>
-
-## GitHub Achievements 🏆 :
-
-<br>
-
- <img width="148" alt="pull-shark-default" src="https://github.com/pritanand7/pritanand7/assets/93637274/d2551447-dcc4-421d-9dbe-e1ecc9ab937f"> 
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;Pull Shark</h3>
-  <br>
-
 
 <br>
 
