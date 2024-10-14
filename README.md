@@ -1,11 +1,11 @@
 # Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" alt="Coder GIF" width="600" height="400">
 
 ### Self-Proclaimed Programmer!
 
 ![GitHub followers](https://img.shields.io/github/followers/pritanand7?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pritanand7?style=social) 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pritanand7.repoName) <img src="https://komarev.com/ghpvc/?username=pritanand7" alt="pritanand7" />
+<img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" alt="Coder GIF" width="600" height="400">
 
 ## About Me :
 
