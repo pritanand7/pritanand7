@@ -1,6 +1,12 @@
-# Welcome to my GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20GitHub Profile!;Self%20Proclaimed%20Programmer!;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-### Self-Proclaimed Programmer!
+
+### 
 
 ![GitHub followers](https://img.shields.io/github/followers/pritanand7?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pritanand7?style=social) 
