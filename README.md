@@ -1,9 +1,7 @@
 # Prit's GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img align="right" src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" alt="Coder GIF" width="400" height="300">
-
-
 
 ### Self-Proclaimed Programmer!
+<img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" alt="Coder GIF" width="400" height="300">
 
 ![GitHub followers](https://img.shields.io/github/followers/pritanand7?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pritanand7?style=social) 
