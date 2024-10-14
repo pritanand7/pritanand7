@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" align="center" alt="Coder GIF" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" align="right" alt="Coder GIF" width="400" height="280">
 
 ## About Me :
 
