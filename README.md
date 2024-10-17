@@ -46,8 +46,9 @@
 </p>
 
 
-## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="35px" height="30px" /> :
 <br/>
+
+## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="35px" height="30px" /> :
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" height="220px" align="right" alt="A professional animation coder gif"/>
 </div>
@@ -57,7 +58,6 @@
 - 🏢 Former **YouTuber**  
 - 🏡'Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
 
 <br>
 
