@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%">
+  <a href="https://core-prit.me"><img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%"></a>
 </div>
 
 
