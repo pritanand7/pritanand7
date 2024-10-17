@@ -38,10 +38,6 @@
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=pritanand7" alt="pritanand7" />
   </a>
-  <a href="">
-
-  
-  </a>
 
 </p>
 
@@ -50,7 +46,7 @@
 
 ## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="35px" height="30px" /> :
 <div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" height="220px" align="right" alt="A professional animation coder gif"/>
+  <a href="https://core-prit.me"><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" height="220px" align="right" alt="A professional animation coder gif"/></a>
 </div>
 
 - 🧑🏻‍🎓 I am currently a **Student** 
