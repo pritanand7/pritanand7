@@ -9,6 +9,8 @@
   <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
 
+
+
 <br>
 <!-- Social icons section -->
 <p align="center">
@@ -37,16 +39,18 @@
   <img src="https://komarev.com/ghpvc/?username=pritanand7" alt="pritanand7" />
   </a>
   <a href="">
-  
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pritanand7.repoName)
+
   
   </a>
 
 </p>
 
-<br/>
 
 ## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="35px" height="30px" /> :
+<br/>
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" height="220px" align="right" alt="A professional animation coder gif"/>
+</div>
 
 - 🧑🏻‍🎓 I am currently a **Student** 
 - 🧑🏻‍💻 Tech Geek
