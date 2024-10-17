@@ -9,7 +9,7 @@
   <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
 
-
+<br>
 <!-- Social icons section -->
 <p align="center">
   <a href="(https://www.youtube.com/@BurstTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -46,9 +46,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> :
+## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="35px" height="30px" /> :
 
 - 🧑🏻‍🎓 I am currently a **Student** 
 - 🧑🏻‍💻 Tech Geek
