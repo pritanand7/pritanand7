@@ -1,9 +1,13 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20GitHub Profile!;Self%20Proclaimed%20Programmer!;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%">
+</div>
 
 
 <!-- Social icons section -->
@@ -23,6 +27,7 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 <p align="center">
   <a href="https://github.com/pritanand7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pritanand7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -41,9 +46,9 @@
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/d7330341-7c9c-4c89-84bf-a43389a0b8f7" align="right" alt="Coder GIF" width="400" height="280">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## About Me :
+## About Me <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> :
 
 - 🧑🏻‍🎓 I am currently a **Student** 
 - 🧑🏻‍💻 Tech Geek
