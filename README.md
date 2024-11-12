@@ -50,7 +50,7 @@
 - 🧑🏻‍🎓 I am currently a **Student** 
 - 🧑🏻‍💻 Tech Geek
 - 🏢 Former **YouTuber**  
-- 🏡'Lives in **India** 
+- 🏡 Lives in **India** 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
