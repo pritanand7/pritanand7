@@ -92,4 +92,3 @@
 [![Prit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pritanand7)](https://github.com/pritanand7/github-readme-activity-graph)
 
 ---
-
