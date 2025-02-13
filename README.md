@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20my%20GitHub Profile!;Self%20Proclaimed%20Programmer!;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
 <div align="center">
   <a href="https://core-prit.me"><img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%"></a>
 </div>
