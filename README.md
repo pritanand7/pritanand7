@@ -36,7 +36,6 @@
 <a href="">
   <img src="https://komarev.com/ghpvc/?username=pritanand7" alt="pritanand7" />
   </a>
-
 </p>
 
 <br/>
