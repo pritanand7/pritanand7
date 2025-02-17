@@ -46,7 +46,6 @@
   <a href="https://core-prit.me"><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" height="220px" align="right" alt="A professional animation coder gif"/></a>
 </div>
 
-- 🧑🏻‍🎓 I am currently a **Student** 
 - 🧑🏻‍💻 Tech Geek
 - 🏢 Former **YouTuber**  
 - 🏡 Lives in **India** 
