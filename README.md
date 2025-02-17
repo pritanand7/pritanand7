@@ -81,7 +81,6 @@
 
 <br>
 
-
 ## 🎴Hacktober Fest Holopin Badges :
 
 [![@pritanand7's Holopin board](https://holopin.me/@pritanand7)](https://holopin.io/@pritanand7)
