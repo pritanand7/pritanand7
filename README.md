@@ -21,7 +21,6 @@
 </p>
 
 
-
 <br/>
 
 <!-- Social badges section -->
