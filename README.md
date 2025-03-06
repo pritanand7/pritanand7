@@ -25,6 +25,7 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
+
 <p align="center">
   <a href="https://github.com/pritanand7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pritanand7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
