@@ -10,6 +10,7 @@
 </div>
 <br>
 
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@BurstTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -25,7 +26,6 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-
 
 <p align="center">
   <a href="https://github.com/pritanand7?tab=repositories&sort=stargazers">
