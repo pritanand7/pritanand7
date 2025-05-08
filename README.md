@@ -10,7 +10,6 @@
 <br>
 
 
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@BurstTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
